@@ -172,3 +172,5 @@ npm run pipeline    # Pasos 2-5: seed + API + tests + security gate, todo en uno
 - Tres **suites de tests** que validan contrato, reglas de negocio y SLA.
 - Un **pipeline CI/CD** con las 4 fases de CodeBuild, ejecutable en local.
 - Un **security gate** con Inspector que puede bloquear el deploy por vulnerabilidades.
+
+- AJUSTE README PARA VERIFICACION AWS - TEST01
