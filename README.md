@@ -174,3 +174,4 @@ npm run pipeline    # Pasos 2-5: seed + API + tests + security gate, todo en uno
 - Un **security gate** con Inspector que puede bloquear el deploy por vulnerabilidades.
 
 - AJUSTE README PARA VERIFICACION AWS - TEST01
+- - AJUSTE README PARA VERIFICACION AWS - TEST02
